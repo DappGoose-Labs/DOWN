@@ -11,11 +11,13 @@ $DOWN Vault is an experimental and innovative social token that aims to become a
 
 ## Important Links
 
-- [Official website](https://downtoken.wtf) 
-- [Medium blog](https://medium.com/down-dao)
-- [Mirror profile](https://mirror.xyz/thedowndao.eth)
-- [Twitter account](https://twitter.com/downtoken)
-- [Discord server](https://discord.haus/goosegang)
-- [Telegram channel]
-- [Etherscan page]
+- [Official Website](https://downtoken.wtf) 
+- [Medium](https://medium.com/down-dao)
+- [Mirror](https://mirror.xyz/thedowndao.eth)
+- [Twitter](https://twitter.com/downtoken)
+- [Discord](https://discord.haus/goosegang)
+- [Telegram]
+- [Etherscan]
+- [Fractional]
+- [Whitepaper]
 ```
